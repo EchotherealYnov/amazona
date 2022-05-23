@@ -13,11 +13,10 @@ $ Open http://localhost:3000
 ```
 
 ## Lessons
+## Tâches effectuées
 1. Introduction
-   1. What you will learn
-   2. What you will build
-   3. What Packages you will use
-2. Install Tools
+Site d’E commerce semblable à Amazon
+2. Logiciels et framework utilisés
    1. VS Code
    2. Chrome
    3. Node.js
