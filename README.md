@@ -4,7 +4,7 @@ by Echothereal (Léo MAGNANT)
 ## Run it Locally
 https://next-amazona-basir.vercel.app/
 
-## Run it Locally
+## Demo
 ```
 $ git clone https://github.com/EchotherealYnov/amazona
 $ cd amazona
