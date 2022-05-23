@@ -1,10 +1,10 @@
 # Amazona
 Site d'Ecommerce en next-js
 by Echothereal (Léo MAGNANT)
-## Run it Locally
+## Demo
 https://next-amazona-basir.vercel.app/
 
-## Demo
+## Run it locally
 ```
 $ git clone https://github.com/EchotherealYnov/amazona
 $ cd amazona
