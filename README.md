@@ -1,8 +1,7 @@
 # Amazona
 Site d'Ecommerce en next-js
 by Echothereal (Léo MAGNANT)
-
-##Demo
+## Run it Locally
 https://next-amazona-basir.vercel.app/
 
 ## Run it Locally
