@@ -14,8 +14,8 @@ $ Open http://localhost:3000
 
 ## Tâches effectuées
 1. Introduction
-
 Site d’E commerce semblable à Amazon
+
 2. Logiciels et framework utilisés
    1. VS Code
    2. Chrome
