@@ -12,9 +12,9 @@ $ Open http://localhost:3000/api/seed
 $ Open http://localhost:3000
 ```
 
-## Lessons
 ## Tâches effectuées
 1. Introduction
+
 Site d’E commerce semblable à Amazon
 2. Logiciels et framework utilisés
    1. VS Code
